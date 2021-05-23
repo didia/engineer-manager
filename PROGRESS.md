@@ -1,9 +1,9 @@
 ## Books
- [] [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
- [] [Behind Closed Doors: Secrets of Great Management](https://www.amazon.com/Behind-Closed-Doors-Management-Programmers-ebook/dp/B00A4OA6UQ/ref=mt_kindle?_encoding=UTF8&me=)
- [] [The Advantage](https://www.amazon.com/dp/0470941529/?tag=googhydr-20&hvadid=30910543821&hvpos=1t1&hvnetw=g&hvrand=15028267282039044489&hvpone=&hvptwo=32&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032142&hvtargid=kwd-47506015307&ref=pd_sl_20vzz2ba7z_b)
- [] [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
- [] [Thanks for the Feedback](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664) - A great book for understanding how to best provide and receive feedback.
+ - [ ] [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
+ - [ ] [Behind Closed Doors: Secrets of Great Management](https://www.amazon.com/Behind-Closed-Doors-Management-Programmers-ebook/dp/B00A4OA6UQ/ref=mt_kindle?_encoding=UTF8&me=)
+ - [ ] [The Advantage](https://www.amazon.com/dp/0470941529/?tag=googhydr-20&hvadid=30910543821&hvpos=1t1&hvnetw=g&hvrand=15028267282039044489&hvpone=&hvptwo=32&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032142&hvtargid=kwd-47506015307&ref=pd_sl_20vzz2ba7z_b)
+ - [ ] [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
+ - [ ] [Thanks for the Feedback](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664) - A great book for understanding how to best provide and receive feedback.
  * [Good Boss, Bad Boss](https://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076)
  * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507) - This is a great book if you work with people from other countries.
  * [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.amazon.com/dp/0143127748/ref=wl_it_dp_v_nS_ttl)
